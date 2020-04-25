@@ -22,7 +22,7 @@ I am interested in privacy compliance problem and list some related papers here
 
 ### Compliance status report
 
-[1. Unveiling and quantifying facebook exploitation of sensitive personal data for advertising purposes, Usenix Securityy Symposium 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/cabanas)
+[1. Unveiling and quantifying facebook exploitation of sensitive personal data for advertising purposes, Usenix Security Symposium 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/cabanas)
 
 [2. Before and after gdpr: The changes in third party presence at public and private european websites. WWW 2019]( https://doi.org/10.1145/3308558.3313524)
 
