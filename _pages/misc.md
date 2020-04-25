@@ -14,9 +14,9 @@ I am interested in privacy compliance problem and list some related papers here
 
 ### Regulations
 
-[1. General Data Protection Regulation (GDPR), the EU]( <https://gdpr-info.eu/>)
+[1. General Data Protection Regulation (GDPR), the EU]( https://gdpr-info.eu/)
 
-[2. California Consumer Privacy Act (CCPA), the US](<https://oag.ca.gov/privacy/ccpa>)
+[2. California Consumer Privacy Act (CCPA), the US](https://oag.ca.gov/privacy/ccpa)
 
 [3.Personal information security specification, the P.R.China](https://www.tc260.org.cn/upload/2018-01-24/1516799764389090333.pdf)
 
