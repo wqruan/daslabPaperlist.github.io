@@ -1,19 +1,19 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+
+permalink: /misc/
 author_profile: true
 redirect_from:
-  - /resume
+  - /papers
 ---
 
 {% include base_path %}
 
 ## Paper Recommendation
 
-I am interested in privacy compliance problem and list some papers I think interesting here
+I am interested in privacy compliance problem and list some related papers here
 
-#### Regulations
+### Regulations
 
 [1. General Data Protection Regulation (GDPR), the EU]( <https://gdpr-info.eu/>)
 
@@ -21,7 +21,7 @@ I am interested in privacy compliance problem and list some papers I think inter
 
 [3.Personal information security specification, the P.R.China](https://www.tc260.org.cn/upload/2018-01-24/1516799764389090333.pdf)
 
-#### Compliance status report
+### Compliance status report
 
 [1. Unveiling and quantifying facebook exploitation of sensitive personal data for advertising purposes, Usenix Securityy Symposium 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/cabanas)
 
@@ -39,7 +39,7 @@ I am interested in privacy compliance problem and list some papers I think inter
 
 [8. Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe’s Transparency and Consent Framework. Oakland 2020](https://arxiv.org/pdf/1911.09964)
 
-#### Apply technology to help compliance
+### Apply technology to help compliance
 
 [1. Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning. Usenix Security Symposium 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/harkous)
 
