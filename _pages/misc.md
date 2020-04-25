@@ -3,7 +3,7 @@ llayout: archive
 permalink: /misc/
 author_profile: true
 redirect_from:
-  - /resume
+  - /papers
 ---
 
 {% include base_path %}
