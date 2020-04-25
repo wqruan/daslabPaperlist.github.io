@@ -46,5 +46,9 @@ I am interested in privacy compliance problem and list some related papers here
 
 [3. Monitoring the gdpr. ESORIC 2019](https://doi.org/10.1007/978-3-030-29959-0_33)
 
-[4. Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data Flow Analysis with POLICHECK. Usenix Security Symposium 2020](<https://www.usenix.org/conference/usenixsecurity20/presentation/andow>)
+[4.Position: GDPR Compliance by Construction. VLDB workshop 2019](https://people.csail.mit.edu/malte/pub/papers/2019-poly-gdpr.pdf)
+
+[5. Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data Flow Analysis with POLICHECK. Usenix Security Symposium 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/andow)
+
+[6. Soteria: A Provably Compliant User Right ManagerUsing a Novel Two-Layer Blockchain Technolog. VLDB 2020](https://arxiv.org/abs/2003.10128)
 
