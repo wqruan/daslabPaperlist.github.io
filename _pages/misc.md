@@ -38,6 +38,8 @@ I am interested in privacy compliance problem and list some related papers here
 
 [8. Do Cookie Banners Respect my Choice? Measuring Legal Compliance of Banners from IAB Europe’s Transparency and Consent Framework. Oakland 2020](https://arxiv.org/pdf/1911.09964)
 
+[9. Understanding and Benchmarkingthe Impact of GDPR on Database Systems](https://dl.acm.org/doi/10.14778/3384345.3384354)
+
 ### Apply technology to help compliance
 
 [1. Polisis: Automated Analysis and Presentation of Privacy Policies Using Deep Learning. Usenix Security Symposium 2018](https://www.usenix.org/conference/usenixsecurity18/presentation/harkous)
